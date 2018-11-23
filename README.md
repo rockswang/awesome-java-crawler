@@ -61,5 +61,6 @@
 ### 参考和资源
 * [网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d) - 虽然是python栈的，但是对爬虫各个环节的概念总结的非常全面
 * [Chrome命令行参数列表](https://peter.sh/experiments/chromium-command-line-switches/) - 定制化chrome，比如启动无头版浏览器
+* [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) - 介绍如何使用无头版Chrome
 * [CentOS6上安装Chrome](https://intoli.com/blog/installing-google-chrome-on-centos/) - 用于搭建无头浏览器爬虫生产环境
 * [CentOS 7.x环境下搭建: Headless chrome + Selenium + ChromeDriver](https://blog.csdn.net/zhuyiquan/article/details/79537623)

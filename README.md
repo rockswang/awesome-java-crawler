@@ -45,8 +45,9 @@
 * [LittleProxy-MITM](https://github.com/ganskef/LittleProxy-mitm) - 基于LittleProxy，可编程扩展的Java代理服务器
 * [proxyee](https://github.com/monkeyWie/proxyee) - 国人作品，支持HTTPS代理
 
-### 页面Javascript调试工具
-* [javascript-breakpoint-collection](https://github.com/mattzeunert/javascript-breakpoint-collection) - 一个Chrome插件，可用于设定高级断点
+### 页面Javascript跟踪分析
+* [javascript-breakpoint-collection](https://github.com/mattzeunert/javascript-breakpoint-collection) - 一个Chrome插件，可用于设定高级断点；也可以直接在控制台执行其源码，之后即可在控制台设断点，可以监听任意对象属性读写、cookie读写等
+* [从javascript脚本混淆说起](https://www.freebuf.com/articles/system/140062.html)
 
 ### 其它工具
 * [请求分析HTTPBIN.ORG](https://httpbin.org) - 可根据需求模拟各种服务器应答，也可用于验证代理的匿名性（透明/匿名/高匿）
@@ -59,8 +60,13 @@
 * WEB前端助手 - Chrome插件，提供大量实用工具，如JSON格式化，编解码等
 
 ### 参考和资源
+#### 概念与思路
 * [网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d) - 虽然是python栈的，但是对爬虫各个环节的概念总结的非常全面
+* [那些年绕过的反爬手段](https://www.freebuf.com/articles/web/166125.html)
+#### 无头浏览器相关
 * [Chrome命令行参数列表](https://peter.sh/experiments/chromium-command-line-switches/) - 定制化chrome，比如启动无头版浏览器
 * [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) - 介绍如何使用无头版Chrome
 * [CentOS6上安装Chrome](https://intoli.com/blog/installing-google-chrome-on-centos/) - 用于搭建无头浏览器爬虫生产环境
 * [CentOS 7.x环境下搭建: Headless chrome + Selenium + ChromeDriver](https://blog.csdn.net/zhuyiquan/article/details/79537623)
+#### Android逆向相关：xposed等
+* [思路分享 | 看我如何给微信下钩子](https://www.freebuf.com/articles/web/156944.html)

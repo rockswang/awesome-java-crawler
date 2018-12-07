@@ -38,7 +38,8 @@
 * [无忧代理](http://www.data5u.com/)
 * [芝麻软件](http://www.zhimaruanjian.com/)
 
-### 图片验证码解析
+### 验证码破解
+* [冷月JS爆破](https://github.com/leng-yue/Lengyue-Vcode/) - 各种滑动验证码识别
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - 开源OCR引擎，可用于自动识别较简单的图片验证码
 * [若快](http://www.ruokuai.com/) - 人肉打码平台，服务较稳定，应答时间较快
 

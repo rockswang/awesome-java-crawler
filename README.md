@@ -68,6 +68,7 @@
 ### 参考和资源
 #### 概念与思路
 * [网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d) - 虽然是python栈的，但是对爬虫各个环节的概念总结的非常全面
+* [Java 月薪25K的爬虫工程师对爬虫的流程做了一个非常全面的总结！](https://blog.csdn.net/Knight_VIP/article/details/81736918) - 膜拜ing...
 * [那些年绕过的反爬手段](https://www.freebuf.com/articles/web/166125.html)
 * [反反爬虫手段收集](https://github.com/luyishisi/Anti-Anti-Spider)
 #### Chrome浏览器相关

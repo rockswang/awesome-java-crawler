@@ -40,6 +40,7 @@
 
 ### 验证码破解
 * [冷月JS爆破](https://github.com/leng-yue/Lengyue-Vcode/) - 各种滑动验证码识别
+* [Luosimao验证码破解](https://github.com/sml2h3/luosimao_cracker)
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - 开源OCR引擎，可用于自动识别较简单的图片验证码
 * [若快](http://www.ruokuai.com/) - 人肉打码平台，服务较稳定，应答时间较快
 
@@ -73,6 +74,9 @@
 * [Java 月薪25K的爬虫工程师对爬虫的流程做了一个非常全面的总结！](https://blog.csdn.net/Knight_VIP/article/details/81736918) - 膜拜ing...
 * [那些年绕过的反爬手段](https://www.freebuf.com/articles/web/166125.html)
 * [反反爬虫手段收集](https://github.com/luyishisi/Anti-Anti-Spider)
+* [大前端时代安全性如何做](https://segmentfault.com/a/1190000017899193) - 提供一种反爬方案
+* [文书网反反爬虫](https://github.com/sml2h3/mmewmd_crack_for_wenshu)
+
 #### Chrome浏览器相关
 * [Chrome命令行参数列表](https://peter.sh/experiments/chromium-command-line-switches/) - 定制化chrome，比如启动无头版浏览器
 * [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) - 介绍如何使用无头版Chrome

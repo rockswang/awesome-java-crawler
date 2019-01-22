@@ -50,6 +50,7 @@
 * [LittleProxy-MITM](https://github.com/ganskef/LittleProxy-mitm) - 基于LittleProxy，可编程扩展的Java代理服务器
 * [proxyee](https://github.com/monkeyWie/proxyee) - 国人作品，支持HTTPS代理
 * [抓包工具大全](https://www.freebuf.com/sectool/184366.html) - 猫厂、鹅厂都有，看来大厂都喜欢造轮子
+* [spy-debugger手机浏览器远程调试](https://github.com/wuchangming/spy-debugger) - 可以调试微信内置浏览器, WebView等，非常强大
 
 ### 页面Javascript跟踪分析
 * [javascript-breakpoint-collection](https://github.com/mattzeunert/javascript-breakpoint-collection) - 一个Chrome插件，可用于设定高级断点；也可以直接在控制台执行其源码，之后即可在控制台设断点，可以监听任意对象属性读写、cookie读写等
@@ -76,6 +77,7 @@
 * [反反爬虫手段收集](https://github.com/luyishisi/Anti-Anti-Spider)
 * [大前端时代安全性如何做](https://segmentfault.com/a/1190000017899193) - 提供一种反爬方案
 * [文书网反反爬虫](https://github.com/sml2h3/mmewmd_crack_for_wenshu)
+* [微信公众号文章批量采集系统的构建](https://zhuanlan.zhihu.com/p/24302048)
 
 #### Chrome浏览器相关
 * [Chrome命令行参数列表](https://peter.sh/experiments/chromium-command-line-switches/) - 定制化chrome，比如启动无头版浏览器
@@ -83,5 +85,6 @@
 * [CentOS6上安装Chrome](https://intoli.com/blog/installing-google-chrome-on-centos/) - 用于搭建无头浏览器爬虫生产环境
 * [CentOS 7.x环境下搭建: Headless chrome + Selenium + ChromeDriver](https://blog.csdn.net/zhuyiquan/article/details/79537623)
 * [apkmirror](https://www.apkmirror.com/apk/google-inc/chrome/variant-%7B%22arches_slug%22%3A%5B%22x86%22%5D%7D/) - 安卓x86版Chrome下载，可用于安卓模拟器
+
 #### Android逆向相关：xposed等
 * [思路分享 | 看我如何给微信下钩子](https://www.freebuf.com/articles/web/156944.html)

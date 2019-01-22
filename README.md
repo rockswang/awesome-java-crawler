@@ -50,13 +50,14 @@
 * [LittleProxy-MITM](https://github.com/ganskef/LittleProxy-mitm) - 基于LittleProxy，可编程扩展的Java代理服务器
 * [proxyee](https://github.com/monkeyWie/proxyee) - 国人作品，支持HTTPS代理
 * [抓包工具大全](https://www.freebuf.com/sectool/184366.html) - 猫厂、鹅厂都有，看来大厂都喜欢造轮子
-* [spy-debugger手机浏览器远程调试](https://github.com/wuchangming/spy-debugger) - 可以调试微信内置浏览器, WebView等，非常强大
 
 ### 页面Javascript跟踪分析
 * [javascript-breakpoint-collection](https://github.com/mattzeunert/javascript-breakpoint-collection) - 一个Chrome插件，可用于设定高级断点；也可以直接在控制台执行其源码，之后即可在控制台设断点，可以监听任意对象属性读写、cookie读写等
 * [从javascript脚本混淆说起](https://www.freebuf.com/articles/system/140062.html)
 * [几种常见的JavaScript混淆和反混淆工具分析实战](https://www.freebuf.com/articles/web/97945.html)
 * [JavaScript反调试技巧](https://www.freebuf.com/articles/system/163579.html) - 知己知彼，百战不殆
+* [Chrome调试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86%20Web%20%E5%89%8D%E7%AB%AF/2.24.md)
+* [spy-debugger手机浏览器远程调试](https://github.com/wuchangming/spy-debugger) - 可以调试微信内置浏览器, WebView等，非常强大
 
 ### 其它工具
 * CURL - 最常用的命令行请求模拟工具，Windows下可以通过Cygwin安装，也可以直接用java-curl

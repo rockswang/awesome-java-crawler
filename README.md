@@ -83,6 +83,7 @@
 * [微信公众号文章批量采集系统的构建](https://zhuanlan.zhihu.com/p/24302048)
 
 #### 高级反爬攻防
+* [某网站高度加密混淆的javascript的分析](https://segmentfault.com/a/1190000017541235)
 * [从javaScript脚本混淆说起](https://www.freebuf.com/articles/system/140062.html)
 * [JavaScript反调试技巧](https://www.freebuf.com/articles/system/163579.html) - 知己知彼，百战不殆
 * [Chrome调试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86%20Web%20%E5%89%8D%E7%AB%AF/2.24.md)
@@ -90,6 +91,7 @@
 * [反反爬虫手段收集](https://github.com/luyishisi/Anti-Anti-Spider)
 * [大前端时代安全性如何做](https://segmentfault.com/a/1190000017899193) - 提供一种反爬方案
 * [文书网破解SDK](https://github.com/sml2h3/mmewmd_crack_for_wenshu)
+* [2.5代指纹追踪技术—跨浏览器指纹识别](https://paper.seebug.org/350/)
 
 #### Android App破解
 * [思路分享 | 看我如何给微信下钩子](https://www.freebuf.com/articles/web/156944.html)

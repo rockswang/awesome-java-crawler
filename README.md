@@ -76,6 +76,7 @@
 ### 爬虫干货文章收集
 
 #### 概念
+* [HTTP简史](https://zhuanlan.zhihu.com/p/59345476) - 介绍HTTP协议的干货
 * [网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d) - 虽然是python栈的，但是对爬虫各个环节的概念总结的非常全面
 * [Java 月薪25K的爬虫工程师对爬虫的流程做了一个非常全面的总结！](https://blog.csdn.net/Knight_VIP/article/details/81736918) - 膜拜ing...
 

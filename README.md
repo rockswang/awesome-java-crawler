@@ -86,6 +86,7 @@
 * [微信公众号文章批量采集系统的构建](https://zhuanlan.zhihu.com/p/24302048)
 
 #### 高级反爬攻防
+* [注入eval, Function等系统函数，截获动态代码](https://segmentfault.com/a/1190000018742189) - 破解动态执行的加密js代码
 * [某网站高度加密混淆的javascript的分析](https://segmentfault.com/a/1190000017541235)
 * [从javaScript脚本混淆说起](https://www.freebuf.com/articles/system/140062.html)
 * [JavaScript反调试技巧](https://www.freebuf.com/articles/system/163579.html) - 知己知彼，百战不殆

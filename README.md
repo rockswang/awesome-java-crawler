@@ -15,6 +15,8 @@
 * [Chrome Devtools Protocol](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Chrome开发协议相关资源；Chrome控制台工具、Selenium、Puppeteer均基于此协议开发；所有主流编程语言均有第三方支持
 * [Selenium](https://www.seleniumhq.org/) - 应用最广泛的浏览器自动化测试框架，支持所有主流浏览器
 * [Puppeteer(javascript)](https://github.com/GoogleChrome/puppeteer/) - 基于Chrome开发协议的高层浏览器自动化框架
+* [Pyppeteer(python)](https://github.com/pyppeteer/pyppeteer) - puppeteer的Python实现
+* [Jyppeteer](https://github.com/fanyong920/jvppeteer) - puppeteer的Java实现
 * [CDP4J](https://github.com/webfolderio/cdp4j) - Java版本的Chrome开发协议支持库。注意本库为商业授权
 * [Tampermonkey](https://tampermonkey.net/) - 著名的“油猴”浏览器脚本管理器，可用于浏览器自动化控制
 * [PhantomJS(javascript)](http://phantomjs.org/) - 基于WebKet核心的无头浏览器。已经停止维护
